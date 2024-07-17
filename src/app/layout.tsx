@@ -9,8 +9,8 @@ type Props = {
 }
 
 export const metadata: Metadata = {
-  title: 'Next.js Nezuko - Boilerplate',
-  description: 'Next.js  Nezuko - Boilerplate',
+  title: 'Kuririn - Socket.io',
+  description: '',
   manifest: '/manifest.json',
   icons: {
     apple: '/apple-icon.png',
