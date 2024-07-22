@@ -32,7 +32,7 @@
     "next.config.ts",
     ".next/types/**/*.ts",
     "vitest.config.mts",
-    "server/index.ts",
+    "server/socket/index.ts",
   ],
   "exclude": ["node_modules"],
 }

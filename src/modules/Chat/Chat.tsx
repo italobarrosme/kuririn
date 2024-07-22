@@ -43,6 +43,9 @@ export const Chat = () => {
 
   return (
     <div className="flex flex-col gap-4">
+      <Text tag="h1" variant="3xl/bold">
+        Hello World - socket.io
+      </Text>
       <Text tag="h1" variant="2xl/bold" className="text-primary-regular">
         Chat
       </Text>
